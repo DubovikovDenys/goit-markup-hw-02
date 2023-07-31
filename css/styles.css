@@ -11,9 +11,8 @@
 
 /* base style */
 body{
-    font-family: 'Roboto', 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: var(--text-color);
-    background-color: var(--primary-white);
 }
 
 button{
@@ -36,17 +35,17 @@ button{
 
 /* logo */
 .logo{
+font-family: 'Raleway', sans-serif;
 color:var(--primary-interactive-color);
 font-size: 18px;
 font-weight: 800;
-line-height: 2.1; 
+line-height: 1.7; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
 .accent-logo{
 color:var(--title-color);
-font-family: 'Raleway';
 }
 
 /* navigation */
@@ -91,7 +90,7 @@ letter-spacing: 0.02em;
 background-color: var(--primary-interactive-color);
 color: var(--primary-white);
 font-weight: 500;
-line-height: 2.4;
+line-height: 1.5;
 letter-spacing: 0.04em;
 }
 
@@ -105,13 +104,13 @@ letter-spacing: 0.04em;
 color: var(--title-color);
 font-size: 20px;
 font-weight: 500;
-line-height: 2.4;
+line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
 .advantages-desc{
 color: var(--text-color);
-line-height: 2.4;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
@@ -121,7 +120,7 @@ letter-spacing: 0.02em;
 color: var(--title-color);
 font-size: 36px;
 font-weight: 700;
-line-height: 4.0;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
@@ -136,7 +135,7 @@ text-transform: capitalize;
 color: var(--title-color);
 font-size: 36px;
 font-weight: 700;
-line-height: 4.0;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 }
@@ -145,13 +144,13 @@ text-transform: capitalize;
 color: var(--title-color);
 font-size: 20px;
 font-weight: 500;
-line-height: 2.4;
+line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
 .team-list-desc{
 color: var(--text-color);
-line-height: 2.4;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
@@ -166,7 +165,7 @@ color:var(--light-bg);
 
 .footer-desc{
 color: var(--light-bg);
-line-height: 2.4;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
@@ -177,7 +176,7 @@ letter-spacing: 0.02em;
 background-color: var(--light-bg);
 color: var(--primary-interactive-color);
 font-weight: 500;
-line-height: 2.4;
+line-height: 1.5;
 letter-spacing: 0.04em;
 }
 
@@ -190,12 +189,12 @@ background-color: var(--active-color);
 color: var(--dark-bg);
 font-size: 20px;
 font-weight: 500;
-line-height: 2.4;
+line-height: 1.2;
 letter-spacing: 0.02em;
 }
 
 .products-list-desc{
 color: var(--text-color);
-line-height: 2.4; 
+line-height: 1.5; 
 letter-spacing: 0.02em;
 }
