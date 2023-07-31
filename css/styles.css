@@ -171,7 +171,7 @@ color:var(--light-bg);
 }
 
 .footer{
-    background-color: var(--dark-bg);
+background-color: var(--dark-bg);
 }
 
 .footer-desc{
@@ -184,6 +184,7 @@ letter-spacing: 0.02em;
 
 
 .filtr-button{
+font-family: 'Roboto', sans-serif;
 background-color: var(--light-bg);
 color: var(--primary-interactive-color);
 font-weight: 500;
