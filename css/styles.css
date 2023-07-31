@@ -137,7 +137,7 @@ text-align: center;
 .team-section{
     background-color: var(--light-bg);
 }
-.team-list{
+.team-list-item{
     background-color: #FFFFFF;
 }
 
