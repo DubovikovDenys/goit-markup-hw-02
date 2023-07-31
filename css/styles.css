@@ -13,6 +13,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
+    background-color: var(--primary-white);
 }
 
 button{
@@ -39,7 +40,7 @@ font-family: 'Raleway', sans-serif;
 color:var(--primary-interactive-color);
 font-size: 18px;
 font-weight: 800;
-line-height: 1.7; 
+line-height: 1.17; 
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
@@ -49,6 +50,10 @@ color:var(--title-color);
 }
 
 /* navigation */
+
+.contacts-adress{
+    font-style: normal;
+}
 
 .nav-list-link{
 color: var(--title-color);
@@ -84,6 +89,7 @@ font-size: 56px;
 font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
+text-align: center;
 }
 
 .hero-button{
@@ -123,12 +129,16 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 }
 
 /* our-team-section */
 
 .team-section{
     background-color: var(--light-bg);
+}
+.team-list{
+    background-color: var(--primary-white);
 }
 
 .team-title{
@@ -138,6 +148,7 @@ font-weight: 700;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 }
 
 .team-list-title{
